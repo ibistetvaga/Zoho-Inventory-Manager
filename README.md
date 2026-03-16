@@ -67,7 +67,7 @@ ZOHO_REFRESH_TOKEN=your_refresh_token
 ZOHO_ORG_ID=your_organization_id
 ```
 ### Alternativamente
-Descarga el ultimo archivo ejecutable en la seccion de publicaciones
+Descarga el ultimo archivo ejecutable en la seccion de publicaciones (https://github.com/ibistetvaga/Zoho-Inventory-Manager/releases/tag/Prototype)
 
 ## Como Obtener Credenciales de Zoho
 
